@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="-E{X0wT6`(gvg-EeQ[1m" x="-4" y="27"><statement name="HANDLER"><block type="device_show_leds" id="8z8K|a!*L)T%i!p8Xf^D"><field name="LEDS">`
+        # . # . . 
+        # . # . # 
+        # # # . . 
+        # . # . # 
+        # . # . #
+        `</field><next><block type="device_show_leds" id="-:X^@)8g#a3fiLnU2HwT"><field name="LEDS">`
+        # . . . # 
+        # # . . # 
+        # . # . # 
+        # . . # # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="2=R2#~.d$v8^L!n]x.u{"><field name="LEDS">`
+        . # # # . 
+        . . . # . 
+        . # # # . 
+        . # . # . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="+:fPO-N_.eFRcPjakAVv"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # . # . 
+        . # . # . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="f!UHevAVIALi61h*71y4"><field name="LEDS">`
+        # . . . . 
+        # # # # # 
+        # . # . # 
+        # . # . # 
+        # . # . #
+        `</field><next><block type="device_show_leds" id="W41C]2U}F?s}dVrTsv}^"><field name="LEDS">`
+        . . # . . 
+        . . . . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="playMelody" id="ECtSkojD|.i]kCED?9{o"><value name="melody"><shadow type="melody_editor" id="+xQBG?|MI2;;Vc6!0Ez7"><field name="melody">"G B A G C5 B A B "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="pK0Z@b2U6fOSb:)Z$EO{"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="basic_show_icon" id="$U9RpK:+KDW(UfNZnY0g"><field name="i">IconNames.Heart</field><next><block type="dance" id="Aa{tE5|yf#E/uS-,7MQC"><value name="time"><shadow type="math_number_minmax" id="l3BKn_D1f5YlyAuw-9f]"><mutation min="1" max="100" label="Time" precision="0"></mutation><field name="SLIDER">7</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
