@@ -1,37 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="-E{X0wT6`(gvg-EeQ[1m" x="-4" y="27"><statement name="HANDLER"><block type="device_show_leds" id="8z8K|a!*L)T%i!p8Xf^D"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="-E{X0wT6`(gvg-EeQ[1m" x="-9" y="5"><statement name="HANDLER"><block type="device_show_leds" id="8z8K|a!*L)T%i!p8Xf^D"><field name="LEDS">`
         # . # . . 
         # . # . # 
         # # # . . 
         # . # . # 
         # . # . #
-        `</field><next><block type="device_show_leds" id="-:X^@)8g#a3fiLnU2HwT"><field name="LEDS">`
-        # . . . # 
-        # # . . # 
-        # . # . # 
-        # . . # # 
-        # . . . #
-        `</field><next><block type="device_show_leds" id="2=R2#~.d$v8^L!n]x.u{"><field name="LEDS">`
-        . # # # . 
-        . . . # . 
-        . # # # . 
-        . # . # . 
-        . # # # .
-        `</field><next><block type="device_show_leds" id="+:fPO-N_.eFRcPjakAVv"><field name="LEDS">`
-        . . . . . 
-        . # # # . 
-        . # . # . 
-        . # . # . 
-        . # # # .
-        `</field><next><block type="device_show_leds" id="f!UHevAVIALi61h*71y4"><field name="LEDS">`
-        # . . . . 
-        # # # # # 
-        # . # . # 
-        # . # . # 
-        # . # . #
-        `</field><next><block type="device_show_leds" id="W41C]2U}F?s}dVrTsv}^"><field name="LEDS">`
-        . . # . . 
-        . . . . . 
-        . . # . . 
-        . . # . . 
-        . . # . .
-        `</field><next><block type="playMelody" id="ECtSkojD|.i]kCED?9{o"><value name="melody"><shadow type="melody_editor" id="+xQBG?|MI2;;Vc6!0Ez7"><field name="melody">"G B A G C5 B A B "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="pK0Z@b2U6fOSb:)Z$EO{"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="basic_show_icon" id="$U9RpK:+KDW(UfNZnY0g"><field name="i">IconNames.Heart</field><next><block type="dance" id="Aa{tE5|yf#E/uS-,7MQC"><value name="time"><shadow type="math_number_minmax" id="l3BKn_D1f5YlyAuw-9f]"><mutation min="1" max="100" label="Time" precision="0"></mutation><field name="SLIDER">7</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field><next><block type="device_print_message" id="VxdX@dY^I,!8H+%fQz_{"><value name="text"><shadow type="text" id="9CQ@-*E;:G6ZZ0#2CN-%"><field name="TEXT">Navn</field></shadow></value><next><block type="playMelody" id="ECtSkojD|.i]kCED?9{o"><value name="melody"><shadow type="melody_editor" id="+xQBG?|MI2;;Vc6!0Ez7"><field name="melody">"G B A G C5 B A B "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="pK0Z@b2U6fOSb:)Z$EO{"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="basic_show_icon" id="$U9RpK:+KDW(UfNZnY0g"><field name="i">IconNames.Heart</field><next><block type="rightward" id="7Z@8o]?Le)IO(pu%Z1lC"><next><block type="shake_head" id="hT_`#C(Ilmh6{2t04UI$"><value name="time"><shadow type="math_number_minmax" id="j-g{UzAquQe3Cc)+XW6P"><mutation min="1" max="100" label="Time" precision="0"></mutation><field name="SLIDER">5</field></shadow></value><next><block type="stopturn" id="MtGh12hvZ|Ml6X0dtQCX"><next><block type="leftward" id="4!/.+ES!#I9f!{y{xD@4"><next><block type="vibrate" id="fez8Tm:}7ueqTKaC#w4h"><value name="time"><shadow type="math_number_minmax" id="TTH|nuE{c4(ZIH=R0WX#"><mutation min="1" max="100" label="Time" precision="0"></mutation><field name="SLIDER">5</field></shadow></value><next><block type="stopturn" id="!]1v{b?QcNe=`!CtjrkM"><next><block type="dance" id="Aa{tE5|yf#E/uS-,7MQC"><value name="time"><shadow type="math_number_minmax" id="l3BKn_D1f5YlyAuw-9f]"><mutation min="1" max="100" label="Time" precision="0"></mutation><field name="SLIDER">6</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
